@@ -14,3 +14,7 @@ I am interested in this course because:
   __Specifically Drones__
   **STUDENTS BUILD OWN DRONE**
   
+  ###Shea's Section
+  We are interested in this course because:
+  **Making our community stronger**
+  __Equality of economy and access to resources__
